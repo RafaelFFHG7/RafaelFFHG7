@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.francofigueiroa.com.br/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/FrancoFigueiroa-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rafael-gambin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -87,20 +87,6 @@ src="https://streak-stats.demolab.com?user=RafaelFFHG7&theme=tokyonight&hide_bor
 </div>
 
 ---
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rafael-gambin/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Gambin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.francofigueiroa.com.br/">
-  <img src="https://img.shields.io/badge/Website-FrancoFigueiroa-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
 
 <br>
 
