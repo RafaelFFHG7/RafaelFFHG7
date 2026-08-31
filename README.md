@@ -35,19 +35,18 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=RafaelFFHG7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="180em"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelFFHG7&theme=tokyonight"
 />
 
 <img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFFHG7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  height="180em"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelFFHG7&theme=tokyonight"
 />
 
 </div>
