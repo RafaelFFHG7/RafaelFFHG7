@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 
 <h3 align="center">
-  Developer passionate about technology, programming, and building awesome projects 🚀
+  Software Developer passionate about technology, automation and building useful products 🚀
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.francofigueiroa.com.br/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-gambin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Developer focused on building modern and functional projects
-* 🚀 Always learning new technologies
-* 🔥 Interested in automation, APIs, bots, and web development
-* ⚡ Always turning ideas into code
+* 💻 Software Developer focused on modern and functional applications
+* 🚀 Always learning and exploring new technologies
+* 🤖 Interested in automation, APIs, bots and integrations
+* 🌐 Passionate about web development and backend systems
+* ⚡ Turning ideas and business problems into code
+* 🇧🇷 Based in São Paulo, Brazil
 
 ---
 
@@ -23,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,git,github,vscode,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,git,github,vscode,mysql,mongodb&perline=6" />
 
 </div>
 
@@ -35,12 +42,12 @@
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=RafaelFFHG7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFFHG7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -51,45 +58,57 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img
+src="https://streak-stats.demolab.com?user=RafaelFFHG7&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
 ---
 
-## 🐍 My Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rafael-gambin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Gambin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.francofigueiroa.com.br/">
+  <img src="https://img.shields.io/badge/Website-FrancoFigueiroa-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <h3 align="center">
   💻 Turning coffee ☕ into code 🚀
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RafaelFFHG7&label=Profile%20Views&color=0e75b6&style=flat" alt="RafaelFFHG7" />
+</p>
