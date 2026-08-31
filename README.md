@@ -69,22 +69,21 @@ src="https://streak-stats.demolab.com?user=RafaelFFHG7&theme=tokyonight&hide_bor
 ## 🐍 Contribution Snake
 
 <div align="center">
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/RafaelFFHG7/RafaelFFHG7/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
